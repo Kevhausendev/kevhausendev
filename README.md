@@ -1,10 +1,10 @@
 # Kevin von Hausen
-I'm Kevin from Chile, and I'm a Software Developer Android and Full Stack MERN. I like to learn in a self-taught intensive way and sharing my knowledge with others whenever I can.
+Hi! I'm Kevin, a Software Android Developer and Full Stack MERN from Chile. I like to learn in a self-taught intensive way and sharing my knowledge with others whenever I can.
 
-I like technologies like React, React Native, HTML, CSS and JS. In addition Android Mobile development.
+I work in technologies like React, React Native, HTML, CSS, JS and Android Kotlin.
 
 - 🌱 I’m currently working as Software Developer using Android Studio Kotlin.
-- 🥅 2022 Goals: Become a experienced Android Developer.
+- 🥅 2022 Goals: Become an experienced Android Developer.
 - 👀 I’m interesting in Android and Web projects.
 
 ## Skills and Experience
