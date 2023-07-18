@@ -4,7 +4,7 @@ Hi! I'm Kevin, a Software Android Developer and Full Stack MERN from Chile. I li
 I work in technologies like React, React Native, HTML, CSS, JS and Android Kotlin.
 
 - 🌱 I’m currently working as Software Developer using Android Studio Kotlin.
-- 🥅 2022 Goals: Become an experienced Android Developer.
+- 🥅 2023 Goals: Become an experienced Android Developer.
 - 👀 I’m interesting in Android and Web projects.
 
 ## Skills and Experience
